@@ -12,7 +12,7 @@ Selamat datang di repositori kode untuk memenuhi tugas Cloud Computing yaitu dep
 ---
 
 ## 🚀 Demo
-*[https://intan-maharani.vercel.app](https://intan-maharani.vercel.app)*
+*Coming Soon*
 
 ---
 
